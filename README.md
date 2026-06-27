@@ -26,7 +26,7 @@ O bien, publica el sitio gratuitamente usando **GitHub Pages**:
 
 ## 📬 Contacto
 
-- ✉️ **Correo:** consultoria@efrainalvarado.com
+- ✉️ **Correo:** efrenadolfo1960@gmail.com
 - 🌐 **Web:** efrainalvarado.com
 
 ---
